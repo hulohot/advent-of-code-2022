@@ -43,4 +43,3 @@ with open(file_path, "r") as f:
             priorities.append(g.get_priority_value())
         
 print(sum(priorities))
-        
